@@ -24,4 +24,4 @@
        The application can be made both online and offline application. 
        Fingerprint authentication can be added to secure the user account.
        
-       # PROJECT COMPLETION STATUS:85%
+ # PROJECT COMPLETION STATUS:85%
